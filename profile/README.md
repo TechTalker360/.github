@@ -2,9 +2,9 @@
 
 <a href="https://techtalker360.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechTalker360/.github/main/profile/banner-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TechTalker360/.github/main/profile/banner-light.svg" />
-    <img alt="Tech Talker 360. Learn Tech Smarter." src="https://raw.githubusercontent.com/TechTalker360/.github/main/profile/banner-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechTalker360/.github/DEV/profile/banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TechTalker360/.github/DEV/profile/banner-light.svg" />
+    <img alt="Tech Talker 360. Learn Tech Smarter." src="https://raw.githubusercontent.com/TechTalker360/.github/DEV/profile/banner-light.svg" width="100%" />
   </picture>
 </a>
 
@@ -24,9 +24,9 @@ Our approach is simple: **learn by building**, one small, practical step at a ti
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechTalker360/.github/main/profile/stats-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TechTalker360/.github/main/profile/stats-light.svg" />
-  <img alt="59 free tools, 46 run fully in your browser, 0 sign-ups needed, sharing tech since 2021" src="https://raw.githubusercontent.com/TechTalker360/.github/main/profile/stats-light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechTalker360/.github/DEV/profile/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TechTalker360/.github/DEV/profile/stats-light.svg" />
+  <img alt="59 free tools, 46 run fully in your browser, 0 sign-ups needed, sharing tech since 2021" src="https://raw.githubusercontent.com/TechTalker360/.github/DEV/profile/stats-light.svg" width="100%" />
 </picture>
 
 ## ✨ Featured tools
@@ -71,9 +71,9 @@ Sketch, plan, and diagram on an endless board that saves as you go.
 ## 💚 How we build
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechTalker360/.github/main/profile/principles-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TechTalker360/.github/main/profile/principles-light.svg" />
-  <img alt="How we build: privacy first, no sign-up and no clutter, works everywhere, made for everyone" src="https://raw.githubusercontent.com/TechTalker360/.github/main/profile/principles-light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechTalker360/.github/DEV/profile/principles-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TechTalker360/.github/DEV/profile/principles-light.svg" />
+  <img alt="How we build: privacy first, no sign-up and no clutter, works everywhere, made for everyone" src="https://raw.githubusercontent.com/TechTalker360/.github/DEV/profile/principles-light.svg" width="100%" />
 </picture>
 
 ## 📚 All tools by category
